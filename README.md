@@ -1,4 +1,4 @@
-## Updated on 2025.06.23
+## Updated on 2025.06.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,6 +12,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-23**|**Smart-LLaMA-DPO: Reinforced Large Language Model for Explainable Smart Contract Vulnerability Detection**|Lei Yu et.al.|[2506.18245](http://arxiv.org/abs/2506.18245)|null|
+|**2025-06-21**|**SAVANT: Vulnerability Detection in Application Dependencies through Semantic-Guided Reachability Analysis**|Wang Lingxiang et.al.|[2506.17798](http://arxiv.org/abs/2506.17798)|null|
 |**2025-06-18**|**ETrace:Event-Driven Vulnerability Detection in Smart Contracts via LLM-Based Trace Analysis**|Chenyang Peng et.al.|[2506.15790](http://arxiv.org/abs/2506.15790)|null|
 |**2025-06-20**|**Model Context Protocol (MCP) at First Glance: Studying the Security and Maintainability of MCP Servers**|Mohammed Mehedi Hasan et.al.|[2506.13538](http://arxiv.org/abs/2506.13538)|**[link](https://github.com/sailresearch/replication-25-mcp-server-empirical-study)**|
 |**2025-06-13**|**Today's Cat Is Tomorrow's Dog: Accounting for Time-Based Changes in the Labels of ML Vulnerability Detection Approaches**|Ranindya Paramitha et.al.|[2506.11939](http://arxiv.org/abs/2506.11939)|null|
@@ -147,7 +149,7 @@
 |**2024-10-08**|**StagedVulBERT: Multi-Granular Vulnerability Detection with a Novel Pre-trained Code Model**|Yuan Jiang et.al.|[2410.05766](http://arxiv.org/abs/2410.05766)|null|
 |**2024-10-04**|**Vulnerability Detection via Topological Analysis of Attention Maps**|Pavel Snopov et.al.|[2410.03470](http://arxiv.org/abs/2410.03470)|**[link](https://github.com/Snopoff/Vulnerability-Detection-via-Topological-Analysis-of-Attention-Maps)**|
 
-<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250625>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
