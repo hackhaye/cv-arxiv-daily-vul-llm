@@ -23,7 +23,7 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "LLMVulDetect": 
-        filters: ["Code Vulnerability Detection LLM", "Vulnerability Detection LLM"]
+        filters: ["Code Vulnerability Detection LLM", "Vulnerability Detection LLM", "Vulnerability Detection Agent"]
     "LLMVulData":
         filters: ["Code Vulnerability Detection data LLM"]
     "VulDetect":
