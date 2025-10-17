@@ -24,11 +24,11 @@ md_wechat_path: './docs/wechat.md'
 keywords:
     "Decompilation":
         filters: ["Decompilation","Type Recovery","Binary Analysis"]
-    # "LLMVulDetect": 
-    #     filters: ["Code Vulnerability Detection LLM", "Vulnerability Detection LLM", "Vulnerability Detection Agent"]
+    "LLMVulDetect": 
+        filters: ["Code Vulnerability Detection LLM", "Vulnerability Detection LLM", "Vulnerability Detection Agent"]
     # "LLMVulData":
     #     filters: ["Code Vulnerability Detection data LLM"]
-    # "VulDetect":
-    #     filters: ["Vulnerability Detect"]
+    "VulDetect":
+        filters: ["Vulnerability Detect"]
     # "FirmwareVulDetect":
     #     filters: ["firmware vulnerability detect"]
